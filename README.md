@@ -1,5 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
+[Link para o deploy - Clique aqui!](https://rocket-pay-sable.vercel.app/)
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
